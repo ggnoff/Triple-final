@@ -43,7 +43,7 @@
   }
   @media (min-width: 992px) {
     .navbar-nav {
-      margin-right: 100px; /* move left */
+      margin-right: 225px; /* move left */
     }
     .shift-logo{
         margin-left: 120px;
